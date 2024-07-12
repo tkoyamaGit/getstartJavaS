@@ -1,0 +1,7 @@
+<apex:page standardController="Generic_Custom_Object__c" >
+    <h1>Sample Visualforce Page</h1>
+    <apex:detail />
+    <apex:form >
+    <apex:commandButton value="This is a button" onclick="window.alert('Look - JavaScript')"/>
+    </apex:form>
+</apex:page>

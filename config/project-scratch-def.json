@@ -1,0 +1,22 @@
+{
+  "orgName": "Hello World",
+  "edition": "Developer",
+  "hasSampleData": "true",
+  "features": [],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
+      }
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "accountSettings": {
+      "enableRelateContactToMultipleAccounts": false
+    }
+  }
+}
